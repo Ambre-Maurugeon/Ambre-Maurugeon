@@ -11,11 +11,10 @@
 
 - 📫 How to reach me **ambre.maurugeon@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ambre-maurugeon/overlay/1758479137106/single-media-viewer/?profileId=ACoAAD3Sz_MB-8d0jB7QtXFo5RD84sY8fHzp-HU](https://www.linkedin.com/in/ambre-maurugeon/overlay/1758479137106/single-media-viewer/?profileId=ACoAAD3Sz_MB-8d0jB7QtXFo5RD84sY8fHzp-HU)
+- 📄 My resume [https://www.linkedin.com/in/ambre-maurugeon/overlay/1758479137106/single-media-viewer/?profileId=ACoAAD3Sz_MB-8d0jB7QtXFo5RD84sY8fHzp-HU](https://www.linkedin.com/in/ambre-maurugeon/overlay/1758479137106/single-media-viewer/?profileId=ACoAAD3Sz_MB-8d0jB7QtXFo5RD84sY8fHzp-HU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ambre-maurugeon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ambre-maurugeon/" height="30" width="40" /></a>
 <a href="https://discord.gg/YA_Kix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YA_Kix" height="30" width="40" /></a>
 </p>
 
