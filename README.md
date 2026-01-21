@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ambre Maurugeon !</h1>
 <h3 align="center">C# / C++ game programmer</h3>
 
-- 🔭 I’m currently working on [a cozy game in C++.](https://github.com/dorgui00/Pipoumancien.git)
+- 🔭 I’m currently finalizing [a cozy couch game in C++.](https://github.com/dorgui00/Pipoumancien.git)
 
 - 🌱 I’m currently learning **C++ on Unreal.**
 
