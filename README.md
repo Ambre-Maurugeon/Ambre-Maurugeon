@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambre Maurugeon !</h1>
 <h3 align="center">C# / C++ game programmer</h3>
 
-- 🔭 I’m currently finalizing [a cozy couch game in C++.](https://github.com/dorgui00/Pipoumancien.git)
+- ☕ I've just finished a [visual-novel-like](https://github.com/Ambre-Maurugeon/ProjetNarratif) in C# on Unity.
 
-- 🌱 I’m currently learning **C++ on Unreal.**
+- 🌱 My longest project is a [a cozy couch game in C++](https://github.com/dorgui00/Pipoumancien.git) on Unreal.
 
 - 👨‍💻 All of my projects are available at [https://ambremaurugeon.wixsite.com/portfolio](https://ambremaurugeon.wixsite.com/portfolio)
 
